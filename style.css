@@ -36,6 +36,11 @@ html {
   border-radius: 0 0 1.5em 1.5em;
 }
 
+.card article img {
+  max-height: 100%
+  float: right;
+}
+
 /* styles specific to the setup of the card container */
 /* styles specific to the header and footer */
 /* styles specific to the main business card contents */
