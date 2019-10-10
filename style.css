@@ -31,7 +31,7 @@ html {
 }
 
 .card header, .card footer {
-  height: 5em;
+  height: 3em;
   padding: 1em;
 }
 
@@ -65,7 +65,10 @@ html {
   float: right;
 }
 
-
+.card article p {
+  padding: 1em;
+  color: rgba(255,255,255,0.8);
+}
 
 /* styles specific to the setup of the card container */
 /* styles specific to the header and footer */
