@@ -17,6 +17,15 @@ html {
   background-color: #ccc;
 }
 
+.card {
+  width: 35em;
+  height: 22em;
+  margin: 5em auto;
+  background-colour: red;
+  border: 0.2em solid black;
+  border-radius: 1.5em;
+}
+
 /* styles specific to the setup of the card container */
 /* styles specific to the header and footer */
 /* styles specific to the main business card contents */
