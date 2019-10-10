@@ -26,6 +26,10 @@ html {
   border-radius: 1.5em;
 }
 
+.card h2, .card p {
+  margin: 0;
+}
+
 .card header, .card footer {
   height: 5em;
   padding: 1em;
